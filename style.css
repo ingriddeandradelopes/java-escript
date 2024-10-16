@@ -10,7 +10,7 @@ h1 {
 }
 
 #circulo{
-     width: 100px;
+    width: 100px;
     height: 100px;
     background-color: #3498db;
     border-radius: 50%;
@@ -18,7 +18,7 @@ h1 {
     transition: all 0.5s ease;
 }
 
-button{
+button {
     padding: 10px 20px;
     font-size: 16px;
     background-color: #28a745;
